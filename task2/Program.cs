@@ -36,4 +36,4 @@ void PrintArray(int[] col)
 }
 int[] array = new int[count];
 FillArray(array);
-PrintArray(array.Reverse().ToArray());
+PrintArray(array.Reverse().ToArray()); //Reverse array
